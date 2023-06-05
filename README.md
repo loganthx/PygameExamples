@@ -11,3 +11,7 @@ And using it to calculate distances from the walls and create the fake 3D percep
 This is the result:
 
 ![](3DCast.gif)
+
+We can insert some better Sprites and make Inspection, Fire and Reload animations:
+
+![](Tomi.gif)
